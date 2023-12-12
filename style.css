@@ -25,6 +25,7 @@ img {
     background: white;
     border-radius: 10px;
     padding: 20px;
+    box-shadow: 0px 15px 20px -5px hsla(281, 86.21%, 54.51%, 0.2);
 }
 
 h1 {
